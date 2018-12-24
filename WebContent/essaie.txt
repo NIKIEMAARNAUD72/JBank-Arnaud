@@ -1,0 +1,7 @@
+
+
+<s:radio list="{'Male','Female'}" label="Gender" name="gender"></s:radio>
+<s:select list="{'Gurgaon','Moradabad','Delhi','Noida'}" name="city" label="City"></s:select>
+
+
+

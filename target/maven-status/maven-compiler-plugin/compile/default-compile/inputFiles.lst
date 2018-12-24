@@ -1,0 +1,13 @@
+C:\Users\ARNAUD\eclipse-workspace\JBank-Arnaud\src\main\java\org\jbank\dao\compteDAO.java
+C:\Users\ARNAUD\eclipse-workspace\JBank-Arnaud\src\main\java\org\jbank\listener\HibernateListener.java
+C:\Users\ARNAUD\eclipse-workspace\JBank-Arnaud\src\main\java\org\jbank\model\Transaction.java
+C:\Users\ARNAUD\eclipse-workspace\JBank-Arnaud\src\main\java\org\jbank\dao\HistoryDAO.java
+C:\Users\ARNAUD\eclipse-workspace\JBank-Arnaud\src\main\java\org\jbank\action\TransactionAction.java
+C:\Users\ARNAUD\eclipse-workspace\JBank-Arnaud\src\main\java\org\jbank\model\Client.java
+C:\Users\ARNAUD\eclipse-workspace\JBank-Arnaud\src\main\java\org\jbank\model\Compte.java
+C:\Users\ARNAUD\eclipse-workspace\JBank-Arnaud\src\main\java\org\jbank\model\History.java
+C:\Users\ARNAUD\eclipse-workspace\JBank-Arnaud\src\main\java\org\jbank\dao\ClientDAO.java
+C:\Users\ARNAUD\eclipse-workspace\JBank-Arnaud\src\main\java\org\jbank\action\ClientAction.java
+C:\Users\ARNAUD\eclipse-workspace\JBank-Arnaud\src\main\java\org\jbank\action\CompteAction.java
+C:\Users\ARNAUD\eclipse-workspace\JBank-Arnaud\src\main\java\org\jbank\dao\ClientDAOImpl.java
+C:\Users\ARNAUD\eclipse-workspace\JBank-Arnaud\src\main\java\org\jbank\dao\TransactionDAO.java
